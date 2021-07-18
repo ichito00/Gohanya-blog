@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: 1
+  title: MyText
+  keyword: MyString
+  body: MyText
+  image_id: MyString
+  is_deleted: false
+
+two:
+  customer_id: 1
+  title: MyText
+  keyword: MyString
+  body: MyText
+  image_id: MyString
+  is_deleted: false
